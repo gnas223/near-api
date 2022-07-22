@@ -1,0 +1,1 @@
+{"version":3,"file":"TokenPrice.js","sourceRoot":"","sources":["../../src/models/TokenPrice.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;AAAA,qDAA4C;AAG5C,MAAM,gBAAgB,GAAW,IAAI,iBAAM,CAAC;IACxC,UAAU,EAAE,EAAC,IAAI,EAAE,MAAM,EAAC;CAC7B,EAAE;IACC,UAAU,EAAE,IAAI;IAChB,UAAU,EAAE,YAAY;CAC3B,CAAC,CAAA;AAEF,kBAAe,kBAAQ,CAAC,KAAK,CAAa,YAAY,EAAE,gBAAgB,CAAC,CAAA"}
